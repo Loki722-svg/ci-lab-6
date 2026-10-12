@@ -1,1 +1,1 @@
-# ci-lab-6
+[![Build and Test](https://github.com/Loki722-svg/ci-lab-6/actions/workflows/ci.yml/badge.svg)](https://github.com/Loki722-svg/ci-lab-6/actions/workflows/ci.yml)
